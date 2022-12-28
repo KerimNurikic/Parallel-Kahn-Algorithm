@@ -1,0 +1,7 @@
+Optimization O3
+Sequential: 144.909ms
+Parallel: 232.336ms
+
+No optimizations, 4 threads:
+Sequential: 593.362ms
+Parallel: 530.601ms

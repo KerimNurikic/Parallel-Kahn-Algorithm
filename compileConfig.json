@@ -1,0 +1,4 @@
+{
+    "compile" : "g++ -o kahnAlgorithm -O0 -fopenmp kahnAlgorithm.cpp functions.cpp linked_list.cpp",
+    "run" : "./kahnAlgorithm"
+}
